@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "proxy": "http://127.0.0.1:8000",
+  "proxy": "https://server-final-project.onrender.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
